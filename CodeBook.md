@@ -1,7 +1,7 @@
 # Codebook
 
 ### Used Libraries
-- plyr: for averaging values with `ddply` function
+- `plyr`: for averaging values with `ddply` function
 
 ### Variables
 - `features`: describes each 'X' data columns (column names)
