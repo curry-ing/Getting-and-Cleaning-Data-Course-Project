@@ -2,10 +2,10 @@
 This repository is for **Getting and Cleaning Data Course Project** for Coursera Data Science course.  
 
 ### What this project do? 
-Merge data which devided into train and test dataset, then select mean, standard deviation measurements from it. (each column described in feature.txt)
-After than get average data group by subject and activity.
+Merge data which devided into train and test dataset, then select mean, standard deviation measurements from it. (each column described in feature.txt)  
+After that get average data group by subject and activity.
 
-- Dataset: [Human Activity Recognition Using Smartphones Data Set](http://archive.ics.uci.edu/ml/machine-learning-databases/00240/)
+- Dataset Link: [Human Activity Recognition Using Smartphones Data Set](http://archive.ics.uci.edu/ml/machine-learning-databases/00240/)
 
 ### How it works?
 1. Merges the training and test datasets
